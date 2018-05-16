@@ -32,3 +32,13 @@ li a:hover {
 .active {
     background-color: #0053ff;
 }
+div.userData{
+
+    border:5px solid black;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    width: 50%;
+}
+div.container{
+    margin: 10px 10px 10px 10px;
+}
